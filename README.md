@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![hmrg-grmh.info](https://github-readme-stats.vercel.app/api?username=hmrg-grmh&show_icons=true)
+![hmrg-grmh.lang.top(8).info](https://github-readme-stats.vercel.app/api/top-langs/?username=hmrg-grmh&layout=compact&langs_count=8)
+
 <!--
 **hmrg-grmh/hmrg-grmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
