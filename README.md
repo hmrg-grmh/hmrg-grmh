@@ -17,3 +17,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+这个账号主要是收集我觉得有趣的 repo 
+
+收集过来后，考虑可能重名的情况，叉过来的 repo 名会改一下，在里面加上原来所属账号的信息。
+
+改名标准并不统一，增加信息也不限于上述(仅限于像 minetest/minetest 或 rakudo/rakudo 这样的)。
+
+点号用来进一步描述 repo 。改名原则是尽量让作为应用名的部分前置。
