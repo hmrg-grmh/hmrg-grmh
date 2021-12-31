@@ -19,11 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-这个账号主要是收集自己觉得有趣的 repo 。
-也会自己写一些自己觉得有趣的小玩意。
+之前收集 repo ，现在累了，自己写了些东西。
 
-收集过来后，考虑可能重名的情况，叉过来的 repo 名会改一下，在里面加上原来所属账号的信息。
+（不过那个 `ghrepos-cloner` 本质上还是收集 repo 、 `retrier` 更是用来批量下载东西的。。。）
 
-改名标准并不统一，增加信息也不限于上述(仅限于像 minetest/minetest 或 rakudo/rakudo 这样的)。
-
-点号用来进一步描述 repo 。改名原则是尽量让作为应用名的部分前置。
