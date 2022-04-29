@@ -19,7 +19,5 @@ Here are some ideas to get you started:
 -->
 
 
-之前收集 repo ，现在累了，自己写了些东西。
 
-（不过那个 `ghrepos-cloner` 本质上还是收集 repo 、 `retrier` 更是用来批量下载东西的。。。）
 
